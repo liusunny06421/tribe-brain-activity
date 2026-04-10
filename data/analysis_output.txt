@@ -1,0 +1,220 @@
+Merged dataset: 10 videos
+
+================================================================================
+TOP 10 BRAIN REGIONS CORRELATED WITH EACH METRIC
+================================================================================
+
+--- Views ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_LH_Default_Par_4                                 0.772   0.009*
+7Networks_RH_Default_Temp_2                                0.770   0.009*
+7Networks_LH_Default_PFC_11                                0.766   0.010*
+7Networks_LH_Default_PFC_19                                0.765   0.010*
+7Networks_LH_Default_Temp_2                                0.764   0.010*
+7Networks_RH_Limbic_OFC_3                                  0.758   0.011*
+7Networks_RH_DorsAttn_Post_9                               0.751   0.012*
+7Networks_LH_DorsAttn_Post_6                               0.734   0.016*
+7Networks_LH_Default_PFC_15                                0.731   0.016*
+7Networks_RH_DorsAttn_Post_8                               0.729   0.017*
+
+--- Likes ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                               0.905   0.000*
+7Networks_LH_Default_PFC_11                                0.886   0.001*
+7Networks_RH_Default_Temp_2                                0.884   0.001*
+7Networks_LH_Default_Par_4                                 0.884   0.001*
+7Networks_LH_Default_PFC_19                                0.880   0.001*
+7Networks_LH_DorsAttn_Post_6                               0.876   0.001*
+7Networks_LH_Default_PFC_15                                0.867   0.001*
+7Networks_LH_Default_Temp_2                                0.865   0.001*
+7Networks_RH_Default_PFCdPFCm_11                           0.863   0.001*
+7Networks_RH_SomMot_40                                     0.862   0.001*
+
+--- Comments ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                               0.912   0.000*
+7Networks_LH_Default_PFC_11                                0.887   0.001*
+7Networks_LH_Default_PFC_15                                0.883   0.001*
+7Networks_RH_SomMot_31                                     0.873   0.001*
+7Networks_RH_Default_PFCdPFCm_8                            0.871   0.001*
+7Networks_LH_SomMot_30                                     0.866   0.001*
+7Networks_RH_Limbic_OFC_3                                  0.866   0.001*
+7Networks_RH_Default_PFCdPFCm_11                           0.861   0.001*
+7Networks_RH_Default_Temp_2                                0.860   0.001*
+7Networks_LH_DorsAttn_Post_6                               0.857   0.002*
+
+--- Shares ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                               0.934   0.000*
+7Networks_LH_Default_PFC_15                                0.912   0.000*
+7Networks_LH_Default_PFC_11                                0.904   0.000*
+7Networks_RH_Default_Temp_2                                0.897   0.000*
+7Networks_RH_Default_PFCdPFCm_8                            0.896   0.000*
+7Networks_RH_SomMot_31                                     0.895   0.000*
+7Networks_RH_Default_PFCdPFCm_11                           0.892   0.001*
+7Networks_LH_SomMot_30                                     0.888   0.001*
+7Networks_RH_SomMot_40                                     0.887   0.001*
+7Networks_LH_DorsAttn_Post_6                               0.882   0.001*
+
+--- Saves ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                               0.909   0.000*
+7Networks_LH_Default_PFC_15                                0.901   0.000*
+7Networks_LH_Default_PFC_11                                0.895   0.000*
+7Networks_RH_Default_Temp_2                                0.884   0.001*
+7Networks_RH_Default_PFCdPFCm_8                            0.876   0.001*
+7Networks_RH_Limbic_OFC_3                                  0.874   0.001*
+7Networks_RH_SomMot_31                                     0.872   0.001*
+7Networks_RH_Default_PFCdPFCm_11                           0.867   0.001*
+7Networks_LH_Default_PFC_19                                0.866   0.001*
+7Networks_LH_SomMot_30                                     0.865   0.001*
+
+--- Interactions ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                               0.919   0.000*
+7Networks_LH_Default_PFC_11                                0.900   0.000*
+7Networks_LH_Default_PFC_15                                0.897   0.000*
+7Networks_RH_Default_Temp_2                                0.893   0.001*
+7Networks_LH_Default_PFC_19                                0.880   0.001*
+7Networks_LH_DorsAttn_Post_6                               0.877   0.001*
+7Networks_RH_Default_PFCdPFCm_11                           0.876   0.001*
+7Networks_RH_Default_PFCdPFCm_8                            0.874   0.001*
+7Networks_RH_SomMot_31                                     0.871   0.001*
+7Networks_RH_SomMot_40                                     0.870   0.001*
+
+--- New Followers ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                               0.906   0.000*
+7Networks_LH_Default_PFC_11                                0.886   0.001*
+7Networks_LH_Default_PFC_15                                0.882   0.001*
+7Networks_RH_Limbic_OFC_3                                  0.869   0.001*
+7Networks_RH_SomMot_31                                     0.868   0.001*
+7Networks_RH_Default_PFCdPFCm_8                            0.866   0.001*
+7Networks_RH_Default_Temp_2                                0.863   0.001*
+7Networks_LH_SomMot_30                                     0.862   0.001*
+7Networks_RH_Default_PFCdPFCm_11                           0.857   0.002*
+7Networks_LH_Default_PFC_19                                0.856   0.002*
+
+--- Skip Rate (%) ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_LH_SalVentAttn_FrOperIns_4                       0.770   0.009*
+7Networks_RH_Cont_PFCl_3                                   0.761   0.011*
+7Networks_LH_Default_PFC_4                                 0.715   0.020*
+7Networks_LH_SomMot_17                                     0.706   0.023*
+7Networks_LH_Default_PFC_12                                0.697   0.025*
+7Networks_LH_Cont_PFCl_4                                   0.686   0.029*
+7Networks_LH_Default_PFC_9                                 0.674   0.032*
+7Networks_RH_SalVentAttn_PFCl_1                            0.663   0.037*
+7Networks_LH_Limbic_OFC_5                                  0.658   0.039*
+7Networks_RH_SalVentAttn_FrOperIns_3                       0.648   0.043*
+
+--- Avg Watch Time (s) ---
+ROI                                                            r        p
+-------------------------------------------------------------------------
+7Networks_RH_SalVentAttn_FrOperIns_1                      -0.704   0.023*
+7Networks_LH_DorsAttn_Post_3                               0.683   0.030*
+7Networks_RH_DorsAttn_Post_9                               0.679   0.031*
+7Networks_LH_Default_PFC_19                                0.665   0.036*
+7Networks_RH_DorsAttn_Post_8                               0.654   0.040*
+7Networks_LH_DorsAttn_Post_11                              0.654   0.040*
+7Networks_RH_SomMot_28                                     0.647   0.043*
+7Networks_LH_DorsAttn_Post_6                               0.640   0.046*
+7Networks_RH_Default_PFCdPFCm_11                           0.637   0.047*
+7Networks_LH_SomMot_27                                     0.637   0.048*
+
+Saved full correlation table: data/all_correlations.csv
+
+================================================================================
+GLOBAL BRAIN FEATURES VS ENGAGEMENT
+================================================================================
+
+--- Views ---
+  global_mean          r=  0.476  p= 0.164 
+  global_var           r=  0.781  p= 0.008*
+  global_peak          r=  0.267  p= 0.455 
+
+--- Likes ---
+  global_mean          r=  0.636  p= 0.048*
+  global_var           r=  0.905  p= 0.000*
+  global_peak          r=  0.419  p= 0.229 
+
+--- Comments ---
+  global_mean          r=  0.644  p= 0.044*
+  global_var           r=  0.936  p= 0.000*
+  global_peak          r=  0.460  p= 0.180 
+
+--- Shares ---
+  global_mean          r=  0.666  p= 0.036*
+  global_var           r=  0.944  p= 0.000*
+  global_peak          r=  0.467  p= 0.173 
+
+--- Saves ---
+  global_mean          r=  0.645  p= 0.044*
+  global_var           r=  0.933  p= 0.000*
+  global_peak          r=  0.456  p= 0.186 
+
+--- Interactions ---
+  global_mean          r=  0.649  p= 0.042*
+  global_var           r=  0.931  p= 0.000*
+  global_peak          r=  0.445  p= 0.198 
+
+--- New Followers ---
+  global_mean          r=  0.641  p= 0.046*
+  global_var           r=  0.934  p= 0.000*
+  global_peak          r=  0.456  p= 0.185 
+
+--- Skip Rate (%) ---
+  global_mean          r=  0.023  p= 0.950 
+  global_var           r=  0.133  p= 0.713 
+  global_peak          r=  0.029  p= 0.937 
+
+--- Avg Watch Time (s) ---
+  global_mean          r=  0.400  p= 0.252 
+  global_var           r=  0.684  p= 0.029*
+  global_peak          r=  0.249  p= 0.488 
+
+================================================================================
+MOST FREQUENTLY APPEARING ROIS ACROSS ALL METRICS
+================================================================================
+
+ROI                                                      Count
+---------------------------------------------------------------
+7Networks_RH_DorsAttn_Post_9                                 8
+7Networks_RH_Default_PFCdPFCm_11                             7
+7Networks_LH_Default_PFC_11                                  7
+7Networks_LH_Default_PFC_15                                  7
+7Networks_RH_Default_Temp_2                                  7
+7Networks_LH_Default_PFC_19                                  6
+7Networks_LH_DorsAttn_Post_6                                 6
+7Networks_RH_SomMot_31                                       5
+7Networks_RH_Default_PFCdPFCm_8                              5
+7Networks_LH_SomMot_30                                       4
+7Networks_RH_Limbic_OFC_3                                    4
+7Networks_RH_SomMot_40                                       3
+7Networks_RH_DorsAttn_Post_8                                 2
+7Networks_LH_Default_Par_4                                   2
+7Networks_LH_Default_Temp_2                                  2
+7Networks_RH_SalVentAttn_FrOperIns_1                         1
+7Networks_LH_DorsAttn_Post_3                                 1
+7Networks_LH_DorsAttn_Post_11                                1
+7Networks_RH_SomMot_28                                       1
+7Networks_LH_SomMot_27                                       1
+
+================================================================================
+NETWORK-LEVEL CORRELATION WITH VIEWS
+================================================================================
+  Cont                 ( 52 ROIs)  r=  0.507  p= 0.135 
+  Default              ( 91 ROIs)  r=  0.589  p= 0.073 
+  DorsAttn             ( 46 ROIs)  r=  0.503  p= 0.138 
+  Limbic               ( 26 ROIs)  r=  0.589  p= 0.073 
+  SalVentAttn          ( 47 ROIs)  r=  0.257  p= 0.473 
+  SomMot               ( 77 ROIs)  r=  0.510  p= 0.132 
+  Vis                  ( 61 ROIs)  r=  0.142  p= 0.696 
